@@ -1,0 +1,6 @@
+name: codeql/python-test
+groups: 
+  - python
+dependencies:
+  codeql/python-all: "*"
+warnOnImplicitThis: true

@@ -1,6 +1,6 @@
 /**
  * @id py/aws_key
- * @name AWS expressions
+ * @name AWS keys 
  * @description Finds AWS id, inspired with the pattern in Trufflehog https://github.com/trufflesecurity/trufflehog/blob/main/pkg/detectors/aws/aws.go
  * @kind problem
  */

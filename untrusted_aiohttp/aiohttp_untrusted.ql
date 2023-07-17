@@ -1,6 +1,6 @@
 /**
- * @id py/aws_key
- * @name AWS expressions
+ * @id py/aiohttp
+ * @name aiohttp insecured request
  * @description Check if the aiohttp session haces certificate validation disabled, insipired: https://github.com/github/codeql/blob/main/python/ql/src/Security/CWE-295/MissingHostKeyValidation.ql
  * @kind problem
  * @tags security
